@@ -4,6 +4,9 @@ const assessmentButton = document.getElementById('assessment');
 const resultDivided = document.getElementById('result-area');
 const tweetDivided = document.getElementById('tweet-area');
 
+
+ // 改行を追加
+
 /**
  * 指定した要素の子どもを全て削除する
  * @param {HTMLElement} element HTMLの要素
