@@ -5,7 +5,7 @@ const resultDivided = document.getElementById('result-area');
 const tweetDivided = document.getElementById('tweet-area');
 
 
- // 改行を追加
+// 9/15テスト用コメントアウト
 
 /**
  * 指定した要素の子どもを全て削除する
